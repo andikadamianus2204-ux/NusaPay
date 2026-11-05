@@ -15,8 +15,6 @@ Aplikasi dompet digital sederhana: daftar akun, top up (simulasi), transfer anta
 ![Beranda](docs/beranda.png)
 ![Transfer](docs/transfer.png)
 ![Riwayat](docs/riwayat.png)
-![Saldo tidak cukup](docs/gagal.png)
-*Transfer ditolak karena saldo tidak cukup; saldo tidak berubah.*
 
 ## Stack
 Angular, ASP.NET Core Web API (.NET), MySQL/MariaDB, EF Core (Pomelo), JWT, BCrypt.
